@@ -2,36 +2,98 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: znajdziesz mnie na
     url: false
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
+      - title: discord
         url: false
+        entries:
+          - title: kubisz0n#0001
+            url: false
       - title: github
-        url: https://github.com/riggraz/no-style-please
-      - title: used by riggraz.dev
-        url: https://riggraz.dev/
+        url: https://github.com/kubisz0n
+      - title: keybase
+        url: https://keybase.io/kubisz0n
+      - title: mail (base64): aGFsb0BrdWJpc3owbi5wbA
+        url: false
 
   - title: thoughts
     post_list: true
     url: false
     entries: false
+    
+  - title: linki
+    url: false
+    entries:
+     - title: kubisz0n.pgp
+        url: ./kubisz0n.pgp
+     - title: place holder
+        url: https://youtu.be/dQw4w9WgXcQ
+     - title: example page
+        url: about
 
   - title: rss
     url: feed.xml
   
-  - title: another list
+  - title: niektóre gatunki kapusty
     url: false
     entries:
-      - title: with subitems
+      - title: kapusta abisyńska
+        url: false
+      - title: kapusta kreteńska
+        url: false
+      - title: kapusta chrzanolistna
+        url: false
+      - title: kapusta sitowata
+        url: false
+      - title: kapusta rzepak
         url: false
         entries:
-          - title: with subsubitems
+          - title: brukiew
             url: false
-          - title: example page
-            url: about
-  - title: PRO TIP
-    url: false
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
+          - title: rzepak
+            url: false
+          - title: rzepa naciowa
+            url: false
+      - title: kapusta czarna
+        url: false
+      - title: kapusta warzywna
+        url: false
+        entries:
+          - title: kalafior
+            url: false
+          - title: kapusta warzywna głowiasta
+            url: false
+          - title: kapusta warzywna brukselska
+            url: false
+          - title: kalarepa
+            url: false
+          - title: brokuł
+            url: false
+          - title: kapusta warzywna pastewna
+            url: false
+          - title: kapusta warzywna typowa
+            url: false
+          - title: kapusta warzywna włoska
+            url: false
+          - title: jarmuż
+            url: false
+          - title: "kapusta galicyjska"
+            url: false
+      - title: kapusta właściwa
+        url: false
+        entries:
+          - title: kapusta właściwa polna
+            url: false
+          - title: kapusta właściwa chińska
+            url: false
+          - title: kapusta właściwa japońska
+            url: false
+          - title: kapusta właściwa olejowa
+            url: false
+          - title: kapusta właściwa pekińska
+            url: false
+          - title: kapusta właściwa typowa
+            url: false
+      - title: kapusta skalna
         url: false
