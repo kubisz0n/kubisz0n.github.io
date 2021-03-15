@@ -17,7 +17,7 @@ entries:
       - title: "mail (base64): aGFsb0BrdWJpc3owbi5wbA"
         url: false
 
-  - title: thoughts
+  - title: wypociny
     post_list: true
     url: false
     entries: false
@@ -25,7 +25,7 @@ entries:
   - title: linki
     url: false
     entries:
-     - title: kubisz0n.pgp
+     - title: pgp key
        url: ./kubisz0n.pgp
      - title: place holder
        url: https://youtu.be/dQw4w9WgXcQ
