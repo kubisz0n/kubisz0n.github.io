@@ -14,7 +14,7 @@ entries:
         url: https://github.com/kubisz0n
       - title: keybase
         url: https://keybase.io/kubisz0n
-      - title: mail (base64): aGFsb0BrdWJpc3owbi5wbA
+      - title: "mail (base64): aGFsb0BrdWJpc3owbi5wbA"
         url: false
 
   - title: thoughts
@@ -26,11 +26,11 @@ entries:
     url: false
     entries:
      - title: kubisz0n.pgp
-        url: ./kubisz0n.pgp
+       url: ./kubisz0n.pgp
      - title: place holder
-        url: https://youtu.be/dQw4w9WgXcQ
+       url: https://youtu.be/dQw4w9WgXcQ
      - title: example page
-        url: about
+       url: about
 
   - title: rss
     url: feed.xml
